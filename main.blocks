@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="fhnWI_Gk1rc*xH@SL!L^" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_number" id="Y.@j2f$pRS/Yn-li{*A}"><value name="number"><shadow type="math_number" id="@dc`]4R(s4wcZE6u#T;N"><field name="NUM">11</field></shadow></value><next><block type="controls_repeat_ext" id="6Fy[1IfwEusx1okb4w_p"><value name="TIMES"><shadow type="math_whole_number" id=";%}K8b2%t|kYW,p+[-_C"><field name="NUM">10</field></shadow></value><statement name="DO"><block type="device_show_leds" id="7Dl!RZd64H#5#R)^9GcK"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="P*!Y=E`-j5MW$Xj}t2jZ"><field name="LEDS">`
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="oOp%PJdZC[2z$Lcf3RN?"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="NF(^ARWN[K$N#:q;t{#."><field name="LEDS">`
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field></block></next></block></next></block></next></block></statement></block></next></block></statement></block></xml>
